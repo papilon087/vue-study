@@ -1,13 +1,16 @@
 <script setup>
 import Header from "./components/Header.vue";
 import Navbar from "./components/NavBar.vue";
+import User from "./components/User.vue";
 </script>
 
 <template>
   <Navbar />
   <Header />
 
-  <main></main>
+  <main>
+    <User />
+  </main>
 </template>
 
 <style scoped>

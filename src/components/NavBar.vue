@@ -11,7 +11,7 @@
 </template>
 <style scoped>
 nav {
-  padding: 5px; /* Corrigido */
+  padding: 5px; /* adjusted */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -22,10 +22,10 @@ ul {
   list-style-type: none;
 }
 ul li {
-  padding: 0.5em; /* Corrigido */
+  padding: 0.5em; /* adjusted */
 }
 ul li a {
-  /* Corrigido */
+  /* adjusted */
   text-decoration: none;
   color: #117177;
 }
